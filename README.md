@@ -1,1 +1,1 @@
-# android_device_alcatel_4034
+# android_device_tecno_tecno_w4
